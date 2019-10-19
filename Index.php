@@ -90,7 +90,7 @@
     </nav>
 
     <div id="map" style="height: 500px; width: 800px;"></div>
-    <script href="Mapa.js"></script>
+    <script src="Mapa.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             $("#respMenu").aceResponsiveMenu({
